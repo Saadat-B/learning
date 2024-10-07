@@ -1,6 +1,7 @@
 # learning
 
 Piysuh Garg - Nginx
+![image](https://github.com/user-attachments/assets/6021762e-b961-4f99-adc8-88b163cb5f6f)
 
 ![image](https://github.com/user-attachments/assets/a661c16d-ba57-4083-902a-9b0b4bcfadb0)
 
