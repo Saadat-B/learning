@@ -1,5 +1,10 @@
 # learning
 
+Harkirat - deployment
+
+![image](https://github.com/user-attachments/assets/c1e7d682-a9be-4ab6-89ea-a3bc770d436c)
+
+
 Piysuh Garg - Nginx
 ![image](https://github.com/user-attachments/assets/6021762e-b961-4f99-adc8-88b163cb5f6f)
 
