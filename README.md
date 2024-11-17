@@ -7,6 +7,9 @@ OTP POC -
 
 Hitesh - React 
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/8b79a7b5-46b4-45ea-a8e1-b615cce777bf">
+
+
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/3c17f089-f9ce-4d7c-94c1-abd67124a2b1">
 
 
