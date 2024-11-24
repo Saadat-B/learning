@@ -1,5 +1,11 @@
 # learning
 
+
+Frontend machine coding round - 
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/432980e7-f289-4f73-a78e-a9907954c43a">
+
+
 OTP POC - 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/52f6cab4-45ab-477b-a775-bad3bd26f29e">
 
