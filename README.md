@@ -2,6 +2,8 @@
 
 
 Frontend machine coding round - 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/1c362b0c-c868-4da5-b2ca-c4337b955cd3">
+
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/432980e7-f289-4f73-a78e-a9907954c43a">
 
